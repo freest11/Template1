@@ -1,0 +1,60 @@
+
+.div{
+width: 100%;
+height: 100vh;
+background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/bf94186024cf5859ab8f7524/sdss.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+display: flex;
+align-items: center;
+background-position: center;
+}
+.div1{
+    width: 634px;
+    height: 484px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 104px;
+    margin-right: 104px;
+    padding: 40px 60px 40px 60px;
+    top: 50%;
+}
+.div2{
+    width: 514px;
+    height: 404px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.q1{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    width: 514px;
+    height: 24px;
+    
+}
+.q2{
+    font-size: 60px;
+    margin: 20px 0px 0px;
+    width: 514px;
+    height: 132px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.q3{
+    width: 199.11px;
+    height: 62.39PX;
+    background-color: #F1C50E;
+    margin: 21px 314.891px 0px 0px;
+    font-size: 14px;
+    padding: 20px 49px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+.q4{
+    width: 214px;
+    height: 26.59px;
+    margin: 29px 300px 0px 0px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;;
+}
